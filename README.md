@@ -2,6 +2,8 @@
 
 ## Installation
 
+> Node version 18.x
+
 ```sh
 npm i
 ```
